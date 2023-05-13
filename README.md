@@ -71,6 +71,10 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 
 ## STM 32 CUBE PROGRAM :
+```
+NAME:BEJIN.B
+REG NO:212222230021
+```
 ````
 #include "main.h"
 #include"stdio.h"
